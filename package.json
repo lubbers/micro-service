@@ -1,0 +1,8 @@
+{
+  "name": "micro-service",
+  "version": "1.0.0",
+  "description": "front-end micro service testing",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
