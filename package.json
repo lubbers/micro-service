@@ -1,6 +1,6 @@
 {
   "name": "micro-service",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "front-end micro service testing",
   "files": [
     "app",
