@@ -1,2 +1,5 @@
 {
+  "generator-generator": {
+    "structure": "nested"
+  }
 }
