@@ -8,6 +8,6 @@
   ],
   "keywords": ["yeoman-generator"],
   "dependencies": {
-    "yeoman-generator": "^1.2.3"
+    "yeoman-generator": "^1.0.0"
   }
 }
