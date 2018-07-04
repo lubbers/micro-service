@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "front-end micro service testing",
   "private": true,
-  "dependencies": {},
+  "files": [
+    "generators"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^1.2.3"
+  }
   "devDependencies": {}
 }
